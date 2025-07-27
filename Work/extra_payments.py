@@ -1,4 +1,4 @@
-# mortgage.py
+# extra_payment.py
 #
 # Exercise 1.8
 
