@@ -1,4 +1,6 @@
-# New Gitter: https://gist.github.com/raphaelorlima/04a4578de3a81361d19dd6ef230d2a48
+# New Gitter
+
+https://gist.github.com/raphaelorlima/04a4578de3a81361d19dd6ef230d2a48
 
 
 # Welcome!
