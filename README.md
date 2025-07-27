@@ -1,3 +1,8 @@
+# New Gitter
+
+https://gist.github.com/raphaelorlima/04a4578de3a81361d19dd6ef230d2a48
+
+
 # Welcome!
 
 When I first learned Python nearly 27 years ago, I was immediately
