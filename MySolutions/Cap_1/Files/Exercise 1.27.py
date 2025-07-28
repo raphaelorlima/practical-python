@@ -9,4 +9,4 @@ from functions import pcost
 FILE_PATH: str = 'practical-python\Work\Data\portfolio.csv'
 
 sum: float = pcost(FILE_PATH)
-print(sum)
+print('Total cost', sum)
